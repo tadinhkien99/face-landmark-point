@@ -1,0 +1,4 @@
+Skipping: xml not found E:\BigData\IMG_REPO\face_landmarks\PinkCoords\FrontalFace-adv-1\primary_image_path\20000\00000IMG00000BURST2019123117241401448013org.jpg
+Skipping: xml not found E:\BigData\IMG_REPO\face_landmarks\PinkCoords\FrontalFace-adv-1\primary_image_path\20000\00000IMG00000BURST20200906135492767091org.jpg
+xml not found: E:\BigData\IMG_REPO\face_landmarks\PinkCoords\FrontalFace-adv-1\primary_image_path\20000\00000IMG00000BURST2019123117241401448013org.jpg
+xml not found: E:\BigData\IMG_REPO\face_landmarks\PinkCoords\FrontalFace-adv-1\primary_image_path\20000\00000IMG00000BURST20200906135492767091org.jpg

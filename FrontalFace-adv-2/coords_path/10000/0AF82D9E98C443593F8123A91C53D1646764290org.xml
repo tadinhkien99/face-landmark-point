@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<face_array num_of_faces="1">
+  <facelandmarks face_id="0" sex="female" mouth="closed">
+    <browL>
+      <left x="107" y="82" />
+      <up_1 x="124" y="47" />
+      <up_2 x="159" y="31" />
+      <up_3 x="195" y="30" />
+      <up_4 x="233" y="35" />
+      <up_5 x="262" y="44" />
+      <right x="284" y="72" />
+      <lo_1 x="125" y="70" />
+      <lo_2 x="160" y="60" />
+      <lo_3 x="196" y="59" />
+      <lo_4 x="234" y="73" />
+      <lo_5 x="266" y="85" />
+    </browL>
+    <browR>
+      <left x="462" y="78" />
+      <up_1 x="485" y="48" />
+      <up_2 x="517" y="39" />
+      <up_3 x="560" y="29" />
+      <up_4 x="595" y="25" />
+      <up_5 x="628" y="45" />
+      <right x="649" y="74" />
+      <lo_1 x="483" y="86" />
+      <lo_2 x="518" y="74" />
+      <lo_3 x="558" y="61" />
+      <lo_4 x="596" y="57" />
+      <lo_5 x="629" y="71" />
+    </browR>
+    <eyeL>
+      <left x="136" y="180" />
+      <up_1 x="153" y="164" />
+      <up_2 x="180" y="155" />
+      <up_3 x="206" y="154" />
+      <up_4 x="233" y="160" />
+      <up_5 x="257" y="171" />
+      <right x="271" y="188" />
+      <lo_1 x="150" y="187" />
+      <lo_2 x="174" y="193" />
+      <lo_3 x="203" y="198" />
+      <lo_4 x="230" y="192" />
+      <lo_5 x="257" y="191" />
+      <iris x="205.025" y="168.3" />
+      <iris_size x="231.1142" y="163.8778" />
+    </eyeL>
+    <eyeR>
+      <left x="476" y="186" />
+      <up_1 x="491" y="172" />
+      <up_2 x="517" y="163" />
+      <up_3 x="548" y="156" />
+      <up_4 x="580" y="155" />
+      <up_5 x="607" y="161" />
+      <right x="625" y="174" />
+      <lo_1 x="494" y="192" />
+      <lo_2 x="520" y="195" />
+      <lo_3 x="552" y="197" />
+      <lo_4 x="583" y="193" />
+      <lo_5 x="610" y="184" />
+      <iris x="549.3" y="169.325" />
+      <iris_size x="573.401" y="163.8423" />
+    </eyeR>
+    <nose>
+      <dorsum_1 x="382" y="159" />
+      <dorsum_2 x="383" y="230" />
+      <dorsum_3 x="385" y="299" />
+      <dorsum_4 x="386" y="372" />
+      <bottom x="387" y="428" />
+      <left_1 x="345" y="415" />
+      <left_2 x="270.8" y="394.4" />
+      <left_3 x="281.52" y="347.36" />
+      <right_1 x="434" y="407" />
+      <right_2 x="506" y="386" />
+      <right_3 x="493.2" y="339.8" />
+    </nose>
+    <mouth>
+      <left x="236" y="486" />
+      <right x="518" y="480" />
+      <above_lip_up_1 x="303" y="492" />
+      <above_lip_up_2 x="356" y="489" />
+      <above_lip_up_3 x="386" y="496" />
+      <above_lip_up_4 x="421" y="488" />
+      <above_lip_up_5 x="468" y="487" />
+      <above_lip_lw_1 x="-1" y="-1" />
+      <above_lip_lw_2 x="330" y="517" />
+      <above_lip_lw_3 x="386" y="518" />
+      <above_lip_lw_4 x="451" y="507" />
+      <above_lip_lw_5 x="-1" y="-1" />
+      <left_inner x="255" y="491" />
+      <right_inner x="503" y="486" />
+      <below_lip_up_1 x="-1" y="-1" />
+      <below_lip_up_2 x="332" y="520" />
+      <below_lip_up_3 x="389" y="527" />
+      <below_lip_up_4 x="451" y="517" />
+      <below_lip_up_5 x="-1" y="-1" />
+      <below_lip_lw_1 x="293" y="529" />
+      <below_lip_lw_2 x="336" y="563" />
+      <below_lip_lw_3 x="390" y="574" />
+      <below_lip_lw_4 x="443" y="558" />
+      <below_lip_lw_5 x="486" y="522" />
+    </mouth>
+    <outlines>
+      <bottom x="387" y="701" />
+      <left_1 x="313" y="694" />
+      <left_2 x="236" y="631" />
+      <left_3 x="182" y="567" />
+      <left_4 x="125" y="494" />
+      <left_5 x="84" y="421" />
+      <left_6 x="56" y="329" />
+      <left_7 x="45" y="237" />
+      <left_8 x="56.2" y="120.8" />
+      <left_forehead_9 x="79.2" y="-107.95" />
+      <left_forehead_10 x="-1" y="-1" />
+      <right_1 x="461" y="691" />
+      <right_2 x="524" y="634" />
+      <right_3 x="580" y="558" />
+      <right_4 x="634" y="483" />
+      <right_5 x="668" y="400" />
+      <right_6 x="687" y="316" />
+      <right_7 x="694" y="232" />
+      <right_8 x="680" y="117.2" />
+      <right_forehead_9 x="562.5" y="-97.15" />
+      <right_forehead_10 x="-1" y="-1" />
+      <top x="374.25" y="1" />
+    </outlines>
+  </facelandmarks>
+</face_array>
